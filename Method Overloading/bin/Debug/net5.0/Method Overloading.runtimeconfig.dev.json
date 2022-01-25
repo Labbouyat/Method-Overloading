@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\labbo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\labbo\\.nuget\\packages"
+    ]
+  }
+}
